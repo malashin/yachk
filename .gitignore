@@ -24,4 +24,4 @@ _testmain.go
 *.prof
 
 *.mp4
-cfg.go
+init.go
